@@ -1,6 +1,6 @@
-# Lisk Network Stats
+# Onz Network Stats
 
-This is a visual interface for tracking lisk network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [lisk-network-reporter](https://github.com/karek314/lisk-network-reporter).
+This is a visual interface for tracking onz network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [onz-network-reporter](https://github.com/OnzCoin/onz-network-reporter).
 
 ![Screenshot](https://raw.githubusercontent.com/karek314/lisk-network-stats/master/lisk-network-stats-screenshot.png)
 
@@ -11,8 +11,8 @@ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | 
 export NVM_DIR="/root/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 nvm install 6.2.0
-git clone https://github.com/karek314/lisk-network-stats
-cd lisk-network-stats
+git clone https://github.com/OnzCoin/onz-network-stats
+cd onz-network-stats
 npm install
 </pre>
 
