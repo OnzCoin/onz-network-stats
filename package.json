@@ -1,6 +1,6 @@
 {
-  "name": "lisk-network-stats",
-  "description": "Lisk Network Dashboard",
+  "name": "onz-network-stats",
+  "description": "Onz Network Dashboard",
   "version": "1.0.0",
   "private": true,
   "engines": {
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karek314/lisk-network-stats.git"
+    "url": "https://github.com/OnzCoin/onz-network-stats.git"
   },
-  "homepage": "https://github.com/karek314/lisk-network-stats",
+  "homepage": "https://github.com/OnzCoin/onz-network-stats",
   "bugs": {
-    "url": "https://github.com/karek314/lisk-network-stats/issues"
+    "url": "https://github.com/OnzCoin/onz-network-stats/issues"
   },
   "authors": [
     {
@@ -51,6 +51,12 @@
       "email": "karek314@protionmail.com",
       "url": "https://github.com/karek314",
       "description": "Forked and adapted for Lisk Network"
+    },
+    {      
+      "name": "OnzCoin",
+      "email": "hi@onzcoin.com",
+      "url": "https://github.com/OnzCoin",
+      "description": "Forked and adapted for Onz Network"    
     }
   ],
   "license": "LGPL-3.0",
