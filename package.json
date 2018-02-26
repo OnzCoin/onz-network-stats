@@ -49,16 +49,16 @@
       "description": "Initial creator of this software to work on the top of ethereum network"
     },
     {
-      "name": "OnzCoin",
-      "email": "hi@OnzCoin.com",
-      "url": "https://github.com/OnzCoin",
-      "description": "Forked and adapted for Onz Network"
-    },
-    {
       "name": "karek314",
       "email": "karek314@protionmail.com",
       "url": "https://github.com/karek314",
       "description": "Forked and adapted for Lisk Network"
+    },
+    {
+      "name": "OnzCoin",
+      "email": "hi@OnzCoin.com",
+      "url": "https://github.com/OnzCoin",
+      "description": "Forked and adapted for Onz Network"
     }
   ],
   "license": "LGPL-3.0",

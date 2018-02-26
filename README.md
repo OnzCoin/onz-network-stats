@@ -2,7 +2,7 @@
 
 This is a visual interface for tracking onz network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [onz-network-reporter](https://github.com/OnzCoin/onz-network-reporter).
 
-![Screenshot](https://raw.githubusercontent.com/karek314/lisk-network-stats/master/lisk-network-stats-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/OnzCoin/onz-network-stats/master/onz-network-stats-screenshot.png)
 
 ## Installation
 
@@ -24,7 +24,7 @@ npm run build
 
 ## Configure
 
-Change [secret key](https://github.com/karek314/lisk-network-stats/blob/ebe44d877eada5494fb0ad0cf594a33080a46599/app.js#L7)
+Change [secret key](https://github.com/OnzCoin/onz-network-stats/blob/ebe44d877eada5494fb0ad0cf594a33080a46599/app.js#L7)
 
 ## Run
 
