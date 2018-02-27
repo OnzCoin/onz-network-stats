@@ -1,0 +1,15 @@
+{
+    "apps": [{
+            "name": "onz-network-stats",
+            "script": "app.js",
+            "cwd": ".",
+            "pid_file": "./pids/stats.app.pid",
+            "out_file": "./logs/stats.app.log",
+            "error_file": "./logs/stats.app.err",
+            "log_date_format": "YYYY-MM-DD HH:mm:ss SSS",
+            "watch": true,
+            "kill_timeout" : 10000,
+            "max_memory_restart": "128M",
+            "node_args": "--max_old_space_size=128"
+    }]
+}
